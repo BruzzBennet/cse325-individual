@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KENHit42T4M=",
+  "dgSpecHash": "8xns1vnQwjo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-individual\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-module02\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BruceBennet\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\BruceBennet\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

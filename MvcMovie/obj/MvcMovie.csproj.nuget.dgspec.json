@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BruceBennet\\cse325-individual\\cse325-individual\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\BruceBennet\\cse325-individual\\cse325-module02\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BruceBennet\\cse325-individual\\cse325-individual\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\BruceBennet\\cse325-individual\\cse325-module02\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-individual\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-module02\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-individual\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-module02\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\BruceBennet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-individual\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\BruceBennet\\cse325-individual\\cse325-module02\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BruceBennet\\AppData\\Roaming\\NuGet\\NuGet.Config"
